@@ -1,0 +1,12 @@
+IdProducto,SKU,NombreProducto,Categoria,Marca
+1,LAP-GMR-01,Laptop Gamer Acer Nitro 5 Intel i7,Laptops,Acer
+2,LAP-OFF-02,Laptop ASUS Vivobook Ryzen 5,Laptops,ASUS
+3,LAP-MAC-03,MacBook Air M2 13 Pulgadas,Laptops,Apple
+4,SSD-1TB-01,Disco Sólido Kingston NVMe 1TB,Almacenamiento,Kingston
+5,SSD-2TB-02,Disco Sólido Samsung EVO 2TB,Almacenamiento,Samsung
+6,RAM-16G-01,Memoria RAM Corsair Vengeance 16GB DDR4,Componentes,Corsair
+7,GPU-RTX-40,Tarjeta de Video MSI RTX 4060 Ti 8GB,Componentes,MSI
+8,MNT-GMR-27,Monitor Gamer LG 27 UltraGear FHD,Monitores,LG
+9,MOU-LOG-G5,Mouse Logitech G502 Hero Lightspeed,Periféricos,Logitech
+10,KEY-HYP-ALL,Teclado Mecánico HyperX Alloy Origins,Periféricos,HyperX
+11,AUD-SNY-WH,Audífonos Sony WH-1000XM5,,Sony
