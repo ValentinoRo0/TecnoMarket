@@ -1,0 +1,6 @@
+IdPromocion,Nombre_Promo,Tipo_Descuento,Valor_Descuento
+1,Sin Promoción / Precio Regular,Monto Fijo,0.0
+2,Campaña Cyber Wow Mayo,Porcentaje,15.0
+3,Descuento Black Friday,Porcentaje,20.0
+4,Cupón Gamer Extremo,Monto Fijo,100.0
+5,Campaña Back to School,Porcentaje,10.0
